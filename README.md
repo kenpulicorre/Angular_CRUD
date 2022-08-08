@@ -1,3 +1,19 @@
+<p align='left'>
+    <img src='https://raw.githubusercontent.com/kenpulicorre/countries_proyect/main/client/src/images/bandera.gif' </img>
+</p>
+
+<!-- # [ CRUD Project ](https://kenpucoapp1.herokuapp.com/) -->
+
+# [ CRUD Project ](https://kenpucoapp1.herokuapp.com/)
+
+## Objetivos del Proyecto
+
+- Build an App with Angular, Bootstrap.
+- Using the best skills to build a website
+- Focus using of CRUD
+
+## Enunciado:
+
 # CrudAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.1.
